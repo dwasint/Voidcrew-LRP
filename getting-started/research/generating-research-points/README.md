@@ -37,4 +37,9 @@ Humanoids: 1500 base points\
 Creatures(Goliaths,Watchers,etc): 900 base points\
 Advanced Creatures(Xeno,Golems,etc): 4500 base points
 
-These payouts are increased based on the level of dissection performed. The multiplers are as followed:
+These payouts are increased based on the level of dissection performed. The multipliers are as followed:
+
+* Dissection: 1x
+* Thorough Dissection: 2x
+* Experimental Dissection: 5x
+* Extraterrestrial Dissection: 7x

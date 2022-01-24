@@ -4,6 +4,8 @@ description: 'Cost: 500 Metacoins'
 
 # Kilo-class Mining Ship
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (9).png>)
 
 ## Slots

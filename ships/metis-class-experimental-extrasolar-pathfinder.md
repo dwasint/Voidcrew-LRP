@@ -4,9 +4,9 @@ description: 'Cost: 667 Metacoins'
 
 # Metis-class Experimental Extrasolar Pathfinder
 
+### Cost:  667 Metacoins
+
 ![](<../.gitbook/assets/image (19).png>)
-
-
 
 ## Slots
 

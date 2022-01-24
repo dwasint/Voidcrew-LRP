@@ -4,6 +4,8 @@ description: 'Cost:  750 Metacoins'
 
 # SolGov Carina-Class Cutter
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (25).png>)
 
 ## Slots

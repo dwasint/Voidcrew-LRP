@@ -4,6 +4,8 @@ description: 'Cost: 850 Metacoins'
 
 # High-class Corporate Luxury Ship
 
+### Cost:  850 Metacoins
+
 ![](<../.gitbook/assets/image (28) (1).png>)
 
 ## Slots

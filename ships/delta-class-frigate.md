@@ -4,9 +4,9 @@ description: 'Cost: 500 Metacoins'
 
 # Delta-class Frigate
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (29).png>)
-
-
 
 ## Slots
 

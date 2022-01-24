@@ -4,6 +4,8 @@ description: 'Cost:  750 Metacoins'
 
 # Skipper-class heavy Cruiser
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (17).png>)
 
 ## Slots

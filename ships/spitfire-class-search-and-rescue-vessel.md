@@ -4,6 +4,8 @@ description: 'Cost: 350 Metacoins'
 
 # Spitfire-class Search and Rescue Vessel
 
+### Cost:  350 Metacoins
+
 ![](../.gitbook/assets/image.png)
 
 ## Slots

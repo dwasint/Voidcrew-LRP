@@ -4,6 +4,8 @@ description: 'Cost:  750 Metacoins'
 
 # Rigoureux-class Auxiliary Cutter
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (15).png>)
 
 ## Slots

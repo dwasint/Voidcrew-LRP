@@ -4,6 +4,8 @@ description: 'Cost: 500 Metacoins'
 
 # Pubby-class Light Carrier
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (27) (1).png>)
 
 ## Slots

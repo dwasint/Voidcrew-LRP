@@ -4,6 +4,8 @@ description: 'Cost: 426 Metacoins'
 
 # Wright-class Anything Vessel
 
+### Cost:  426 Metacoins
+
 ![](<../.gitbook/assets/image (1).png>)
 
 ## Slots

@@ -4,6 +4,8 @@ description: 'Cost: 500 Metacoins'
 
 # Li Tieguai-class Rescue Ship
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (7).png>)
 
 ## Slots

@@ -4,6 +4,8 @@ description: 'Cost: 850 Metacoins'
 
 # Osprey-class Exploration Ship
 
+### Cost:  850 Metacoins
+
 ![](<../.gitbook/assets/image (10).png>)
 
 ## Slots

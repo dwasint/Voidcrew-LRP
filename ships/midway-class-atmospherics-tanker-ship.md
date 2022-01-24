@@ -4,6 +4,8 @@ description: 'Cost: 500 Metacoins'
 
 # Midway-class Atmospherics Tanker Ship
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (37).png>)
 
 ## Slots

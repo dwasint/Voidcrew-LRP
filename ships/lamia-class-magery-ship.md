@@ -4,6 +4,8 @@ description: 'Cost: 777 Metacoins'
 
 # Lamia-class Magery Ship
 
+### Cost:  777 Metacoins
+
 ![](<../.gitbook/assets/image (35) (1).png>)
 
 ## Slots

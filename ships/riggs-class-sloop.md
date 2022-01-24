@@ -4,6 +4,8 @@ description: 'Cost: 750 Metacoins'
 
 # Riggs-class Sloop
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (16).png>)
 
 ## Slots

@@ -4,6 +4,8 @@ description: 'Cost: 300 Metacoins'
 
 # Goon-class Repurposed Emergency Shuttle
 
+### Cost:  300 Metacoins
+
 ![](<../.gitbook/assets/image (2).png>)
 
 ## Slots

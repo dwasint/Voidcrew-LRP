@@ -4,6 +4,8 @@ description: 'Cost: 300 Metacoins'
 
 # Tide-class Salvage Ship
 
+### Cost:  300 Metacoins
+
 ![](<../.gitbook/assets/image (30).png>)
 
 ## Slots

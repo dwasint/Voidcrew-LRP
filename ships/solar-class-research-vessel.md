@@ -4,6 +4,8 @@ description: 'Cost:  750 Metacoins'
 
 # Solar-class Research Vessel
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (31).png>)
 
 ## Slots

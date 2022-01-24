@@ -4,6 +4,8 @@ description: 'Cost: 600 Metacoins'
 
 # Luxembourg-class Delivery Vessel
 
+### Cost:  600 Metacoins
+
 ![](<../.gitbook/assets/image (21).png>)
 
 ## Slots

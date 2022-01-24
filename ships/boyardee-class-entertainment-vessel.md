@@ -4,9 +4,9 @@ description: 'Cost: 750 Metacoins'
 
 # Boyardee-class Entertainment Vessel
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (22).png>)
-
-
 
 ## Slots
 

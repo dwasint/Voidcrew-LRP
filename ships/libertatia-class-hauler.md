@@ -4,6 +4,8 @@ description: 'Cost: 500 Metacoins'
 
 # Libertatia-class Hauler
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (34).png>)
 
 ## Slots

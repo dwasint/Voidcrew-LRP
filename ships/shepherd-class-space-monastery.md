@@ -4,6 +4,8 @@ description: 'Cost: 620 Metacoins'
 
 # Shepherd-Class Space Monastery
 
+### Cost:  620 Metacoins
+
 ![](<../.gitbook/assets/image (23).png>)
 
 ## Slots

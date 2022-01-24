@@ -4,6 +4,8 @@ description: 'Cost: 500 Metacoins'
 
 # Meta-class Freighter
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (11).png>)
 
 ## Slots

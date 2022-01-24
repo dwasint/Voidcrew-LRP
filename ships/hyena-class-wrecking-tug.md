@@ -4,6 +4,8 @@ description: 'Cost: 750 Metacoins'
 
 # Hyena-class Wrecking Tug
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (14).png>)
 
 ## Slots

@@ -4,6 +4,8 @@ description: 'Cost: 750 Metacoins'
 
 # Kugelblitz-class Experimental Vessel
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (3).png>)
 
 ## Slots

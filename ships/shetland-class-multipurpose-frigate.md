@@ -4,6 +4,8 @@ description: 'Cost:  750 Metacoins'
 
 # Shetland-class Multipurpose Frigate
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (20).png>)
 
 ## Slots

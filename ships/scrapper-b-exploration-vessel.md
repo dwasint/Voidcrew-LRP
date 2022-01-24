@@ -4,6 +4,8 @@ description: 'Cost:  750 Metacoins'
 
 # Scrapper-B Exploration Vessel
 
+### Cost:  750 Metacoins
+
 ![](<../.gitbook/assets/image (26).png>)
 
 ## Slots

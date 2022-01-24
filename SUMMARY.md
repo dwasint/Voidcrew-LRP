@@ -2,6 +2,12 @@
 
 * [Page 1](README.md)
 
+## Getting Started
+
+* [Research](getting-started/research/README.md)
+  * [Generating Research Points](getting-started/research/generating-research-points/README.md)
+    * [Generating Nanite Research Points](getting-started/research/generating-research-points/generating-nanite-research-points.md)
+
 ## Ships
 
 * [Pill Class-B(lack) Torture Device](ships/pill-class-b-lack-torture-device.md)

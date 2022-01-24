@@ -6,4 +6,6 @@ description: 'Cost: 10 Metacoins'
 
 ![](<../.gitbook/assets/image (5).png>)
 
-Roles: Assistant
+## Slots
+
+* Prisoner - 3

@@ -10,6 +10,12 @@
 
 ## Useful Stuff
 
+* [Mapping and You](useful-stuff/mapping-and-you/README.md)
+  * [How to Fork a Codebase for mapping](useful-stuff/mapping-and-you/how-to-fork-a-codebase-for-mapping.md)
+  * [Cloning the Repo so you can Map](useful-stuff/mapping-and-you/cloning-the-repo-so-you-can-map.md)
+  * [StrongDMM](useful-stuff/mapping-and-you/strongdmm.md)
+  * [StrongDMM Tips](useful-stuff/mapping-and-you/strongdmm-tips.md)
+  * [How to Make a PR](useful-stuff/mapping-and-you/how-to-make-a-pr.md)
 * [Ships](useful-stuff/ships/README.md)
   * [Pill Class-B(lack) Torture Device](ships/pill-class-b-lack-torture-device.md)
   * [Bogatyr-class Explorator](ships/bogatyr-class-explorator.md)

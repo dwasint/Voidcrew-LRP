@@ -6,7 +6,7 @@ In order to get research points from surveying you will need a Survey Handheld o
 
 You can get a Survey Handheld from an autolathe as shown in the image below.
 
-![](<../../../.gitbook/assets/image (42).png>)
+![](<../../../.gitbook/assets/image (42) (1).png>)
 
 To use a Survey Handheld or any of the more advanced versions simply stand still and use it in your hand, and as long as there isn't anyone else using one and you haven't exhausted the research for your node you will start generating research papers. To use the research papers simply click on a linked R\&D console with the paper in hand as shown below.
 

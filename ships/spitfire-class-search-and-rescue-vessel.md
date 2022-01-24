@@ -6,7 +6,7 @@ description: 'Cost: 350 Metacoins'
 
 ### Cost:  350 Metacoins
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ## Slots
 

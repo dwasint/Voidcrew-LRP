@@ -4,6 +4,8 @@ description: 'Cost: 500 Metacoins'
 
 # Box-class Hospital Ship
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (40).png>)
 
 ## Slots

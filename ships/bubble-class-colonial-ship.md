@@ -4,6 +4,8 @@ description: 'Cost: 500 Metacoins'
 
 # Bubble-class Colonial Ship
 
+### Cost:  500 Metacoins
+
 ![](<../.gitbook/assets/image (41).png>)
 
 ## Slots

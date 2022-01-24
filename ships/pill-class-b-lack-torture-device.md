@@ -4,6 +4,8 @@ description: 'Cost: 10 Metacoins'
 
 # Pill Class-B(lack) Torture Device
 
+### Cost: 10 Metacoins
+
 ![](<../.gitbook/assets/image (5).png>)
 
 ## Slots

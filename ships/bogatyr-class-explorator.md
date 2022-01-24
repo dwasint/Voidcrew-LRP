@@ -4,6 +4,8 @@ description: 'Cost: 499 Metacoins'
 
 # Bogatyr-class Explorator
 
+### Cost:  499 Metacoins
+
 ![](<../.gitbook/assets/image (39).png>)
 
 ## Slots

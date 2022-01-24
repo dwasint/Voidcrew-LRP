@@ -37,4 +37,4 @@ Humanoids: 1500 base points\
 Creatures(Goliaths,Watchers,etc): 900 base points\
 Advanced Creatures(Xeno,Golems,etc): 4500 base points
 
-These payouts are doubled for each stage of dissection so 1500 for a regular dissection of a human, 3000 for thorough,  4500 for experimental, and 6000 for Alien &#x20;
+These payouts are increased based on the level of dissection performed. The multiplers are as followed:

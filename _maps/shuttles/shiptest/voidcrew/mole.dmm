@@ -1,0 +1,212 @@
+"ar" = (/obj/machinery/vending/boozeomat/all_access,/obj/machinery/light{dir = 1},/turf/open/floor/wood,/area/ship/crew/canteen)
+"aP" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 9},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 9},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"aU" = (/obj/structure/window/bronze/fulltile,/obj/structure/grille,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 6},/turf/open/floor/plating,/area/ship/maintenance/port)
+"aV" = (/obj/machinery/computer/slot_machine,/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"aZ" = (/obj/structure/window/bronze{dir = 1},/obj/machinery/suit_storage_unit/mining,/obj/item/pickaxe/diamond,/obj/item/storage/bag/ore,/obj/item/t_scanner/adv_mining_scanner,/obj/item/shovel,/turf/open/floor/plating,/area/ship/cargo)
+"bc" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"bj" = (/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,/turf/open/floor/bronze,/area/ship/bridge)
+"bV" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/structure/cable{icon_state = "2-4"},/turf/open/floor/plating,/area/ship/cargo)
+"bY" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"cr" = (/turf/open/floor/wood,/area/ship/crew/canteen)
+"dp" = (/obj/structure/reagent_dispensers/beerkeg,/obj/machinery/light{dir = 1},/turf/open/floor/wood,/area/ship/crew/canteen)
+"ds" = (/obj/structure/window/bronze/fulltile,/obj/structure/grille,/turf/open/floor/plating,/area/ship/bridge)
+"ec" = (/turf/open/floor/plating,/area/ship/cargo)
+"er" = (/obj/structure/chair/stool/bar{dir = 1},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/turf/open/floor/wood,/area/ship/crew/canteen)
+"eu" = (/obj/machinery/door/poddoor/shutters{id = dwarfext1},/turf/open/floor/plating,/area/ship/cargo)
+"eA" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 10},/turf/open/floor/bronze,/area/ship/bridge)
+"gm" = (/obj/machinery/light{dir = 8},/turf/open/floor/plating,/area/ship/cargo)
+"gE" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2{dir = 8},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"gS" = (/turf/closed/wall/mineral/bronze,/area/ship/maintenance/port)
+"hR" = (/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"im" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"ir" = (/obj/structure/cable{icon_state = "1-2"},/obj/machinery/light{dir = 4},/turf/open/floor/wood,/area/ship/crew/canteen)
+"jc" = (/obj/machinery/door/airlock/bronze,/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"jz" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 6},/obj/machinery/airalarm/directional/west,/turf/open/floor/bronze,/area/ship/bridge)
+"jM" = (/obj/machinery/plumbing/beer_synthesizer,/obj/structure/cable{icon_state = "1-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"jX" = (/obj/machinery/duct,/obj/machinery/light{dir = 8},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"kf" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/turf/closed/wall/mineral/bronze,/area/ship/maintenance/port)
+"ko" = (/obj/structure/table/wood/fancy/purple,/obj/machinery/light{dir = 8},/obj/machinery/microwave,/turf/open/floor/wood,/area/ship/crew/canteen)
+"lj" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/airalarm/directional/south,/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"lI" = (/obj/machinery/duct,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"lR" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"lV" = (/obj/machinery/door/airlock/bronze,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/bronze,/area/ship/crew/dorm)
+"mu" = (/obj/structure/window/bronze/fulltile,/obj/structure/grille,/turf/open/space/basic,/area/ship/crew/canteen)
+"mM" = (/obj/structure/table/wood/fancy/purple,/turf/open/floor/wood,/area/ship/crew/canteen)
+"mN" = (/obj/machinery/door/airlock/bronze,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/bridge)
+"nR" = (/obj/machinery/autolathe,/obj/machinery/light{dir = 1},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"nS" = (/obj/machinery/computer/cryopod{pixel_y = 26},/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"om" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/wood,/area/ship/crew/canteen)
+"os" = (/obj/machinery/airalarm/directional/west,/turf/open/floor/plating,/area/ship/cargo)
+"ot" = (/obj/machinery/light,/turf/open/floor/bronze,/area/ship/bridge)
+"ox" = (/obj/structure/chair/comfy/shuttle{dir = 1},/turf/open/floor/bronze,/area/ship/bridge)
+"pF" = (/obj/machinery/mineral/ore_redemption,/turf/open/floor/plating,/area/ship/cargo)
+"qn" = (/obj/machinery/power/apc/auto_name/north,/obj/structure/cable{icon_state = "0-2"},/turf/open/floor/wood,/area/ship/crew/canteen)
+"qP" = (/obj/machinery/duct,/obj/structure/cable{icon_state = "4-8"},/obj/machinery/light,/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"ro" = (/turf/open/space/basic,/area/space)
+"rv" = (/obj/machinery/ore_silo,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"rC" = (/obj/structure/fans/tiny,/obj/machinery/door/poddoor{id = dwarfext2},/turf/open/floor/bronze,/area/ship/cargo)
+"rP" = (/obj/structure/fans/tiny,/obj/machinery/door/poddoor{id = dwarfext2},/turf/open/floor/plating,/area/ship/cargo)
+"rR" = (/obj/machinery/door/poddoor/shutters{id = dwarfext1},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ship/cargo)
+"sg" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/airalarm/directional/north,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"sq" = (/obj/machinery/power/shuttle/engine/liquid/dorf,/obj/structure/window/bronze,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"sB" = (/obj/structure/table/reinforced,/obj/machinery/chem_dispenser/drinks/beer,/turf/open/floor/wood,/area/ship/crew/canteen)
+"sJ" = (/obj/structure/chair/stool/bar{dir = 1},/turf/open/floor/wood,/area/ship/crew/canteen)
+"sS" = (/obj/machinery/door/airlock/bronze,/obj/machinery/duct,/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"tB" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{dir = 1},/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2{dir = 1},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"tZ" = (/obj/machinery/button{id = "dwarfext2"; name = "Exterior Door Controls"; pixel_y = 21},/obj/machinery/button{id = "dwarfext1"; name = "Shutter Controls"; pixel_y = 32},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"ux" = (/obj/machinery/door/airlock/bronze,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"uQ" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{dir = 8},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 6},/turf/open/floor/wood,/area/ship/crew/canteen)
+"uT" = (/obj/item/light,/turf/open/floor/wood/yew{light_range = 3},/area/ship/crew/dorm)
+"uV" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 5},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 5},/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"vn" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 10},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 9},/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"vs" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "4-8"},/obj/machinery/light,/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"vV" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/wood,/area/ship/crew/canteen)
+"wu" = (/obj/machinery/duct,/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-8"},/turf/open/floor/wood,/area/ship/crew/canteen)
+"wy" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 6},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"xe" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 9},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"xB" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/turf/open/floor/wood,/area/ship/crew/canteen)
+"xD" = (/obj/machinery/light{dir = 8},/obj/machinery/computer/helm,/turf/open/floor/bronze,/area/ship/bridge)
+"yh" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 10},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"yi" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"yH" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"yQ" = (/turf/closed/wall/mineral/bronze,/area/ship/bridge)
+"zj" = (/turf/closed/wall/mineral/wood,/area/ship/crew/canteen)
+"zo" = (/obj/item/light,/turf/open/floor/wood/yew{light_color = "#AFC84B"; light_range = 3},/area/ship/crew/dorm)
+"zr" = (/obj/structure/table/glass,/turf/open/floor/bronze,/area/ship/bridge)
+"zB" = (/obj/machinery/computer/autopilot,/turf/open/floor/bronze,/area/ship/bridge)
+"Au" = (/obj/structure/window/bronze/fulltile,/obj/structure/grille,/turf/open/floor/plating,/area/ship/maintenance/port)
+"Bl" = (/obj/machinery/duct,/obj/structure/cable{icon_state = "4-8"},/obj/structure/cable{icon_state = "1-8"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"Bw" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 5},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 5},/obj/structure/cable{icon_state = "1-4"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"BF" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 6},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 6},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"BW" = (/obj/structure/reagent_dispensers/beerkeg,/turf/open/floor/wood,/area/ship/crew/canteen)
+"Cc" = (/obj/machinery/duct,/obj/structure/cable{icon_state = "1-8"},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"Cu" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/obj/structure/cable{icon_state = "1-4"},/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"Dn" = (/obj/machinery/atmospherics/components/unary/outlet_injector/layer2{dir = 8},/turf/open/floor/plating,/area/ship/maintenance/port)
+"Dv" = (/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{dir = 1},/obj/machinery/light,/obj/structure/cable{icon_state = "0-4"},/obj/machinery/power/port_gen/pacman,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"DC" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"Ea" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"EO" = (/obj/structure/table/reinforced,/obj/machinery/chem_dispenser/drinks,/turf/open/floor/wood,/area/ship/crew/canteen)
+"Fq" = (/turf/open/floor/bronze,/area/ship/crew/canteen)
+"FD" = (/obj/machinery/power/apc/auto_name/south,/obj/structure/cable{icon_state = "0-8"},/turf/open/floor/plating,/area/ship/cargo)
+"FQ" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{dir = 8},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Gw" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 9},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/bridge)
+"GF" = (/obj/machinery/light{dir = 1},/obj/machinery/computer/slot_machine,/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"GI" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{dir = 1},/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 9},/obj/machinery/power/apc/auto_name/south,/obj/structure/cable{icon_state = "0-8"},/turf/open/floor/bronze,/area/ship/bridge)
+"GU" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"Hh" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"HK" = (/obj/structure/window/bronze/fulltile,/obj/structure/grille,/obj/docking_port/mobile{can_move_docking_ports = 1; dir = 2; launch_status = 0},/turf/open/floor/plating,/area/ship/bridge)
+"IH" = (/obj/machinery/atmospherics/components/unary/tank/air{dir = 4; piping_layer = 4},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"IQ" = (/obj/structure/table/wood,/obj/machinery/power/apc/auto_name/north,/obj/structure/cable{icon_state = "0-2"},/obj/item/stack/sheet/mineral/plasma/twenty,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"JF" = (/obj/structure/bed/pod,/obj/item/bedsheet/dorms,/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"JI" = (/obj/structure/table/wood/fancy/purple,/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,/turf/open/floor/wood,/area/ship/crew/canteen)
+"JK" = (/obj/structure/chair/stool/bar{dir = 1},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/turf/open/floor/wood,/area/ship/crew/canteen)
+"Kh" = (/turf/closed/wall/mineral/bronze,/area/ship/crew/dorm)
+"KE" = (/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"KP" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2,/turf/open/floor/bronze,/area/ship/crew/canteen)
+"Ls" = (/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/wood,/area/ship/crew/canteen)
+"LT" = (/obj/structure/window/bronze/fulltile,/obj/structure/curtain/cloth/fancy,/obj/structure/grille,/turf/open/floor/plating,/area/ship/crew/dorm)
+"LX" = (/turf/closed/wall/mineral/bronze,/area/ship/cargo)
+"Mx" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"ML" = (/obj/structure/closet/secure_closet/freezer/kitchen/wall,/turf/closed/wall/mineral/bronze,/area/ship/crew/canteen)
+"MN" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/turf/open/floor/bronze,/area/ship/crew/canteen)
+"MS" = (/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{dir = 1},/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"Nv" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/turf/open/floor/plating,/area/ship/cargo)
+"Oa" = (/obj/machinery/airalarm/directional/north,/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"Od" = (/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Os" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"OW" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"Pf" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2,/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"Pi" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "2-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Pu" = (/turf/closed/wall/mineral/bronze,/area/ship/crew/canteen)
+"PA" = (/turf/open/floor/bronze,/area/ship/bridge)
+"Qn" = (/obj/machinery/duct,/obj/machinery/light{dir = 4},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Qo" = (/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Rh" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Ri" = (/obj/machinery/power/apc/auto_name/north,/obj/structure/cable{icon_state = "0-8"},/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"Rz" = (/obj/structure/window/bronze{dir = 1},/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2,/obj/machinery/suit_storage_unit/mining,/obj/item/pickaxe/diamond,/obj/item/storage/bag/ore,/obj/item/t_scanner/adv_mining_scanner,/obj/item/shovel,/turf/open/floor/plating,/area/ship/cargo)
+"Sj" = (/obj/machinery/duct,/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 9},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 9},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+"SB" = (/obj/machinery/door/poddoor/shutters{id = dwarfext1},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/turf/open/floor/plating,/area/ship/cargo)
+"TD" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"TO" = (/obj/machinery/duct,/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Ug" = (/obj/structure/table/wood/fancy/purple,/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,/turf/open/floor/wood,/area/ship/crew/canteen)
+"UZ" = (/obj/structure/cable{icon_state = "2-4"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"Vv" = (/obj/machinery/cryopod,/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"VP" = (/obj/structure/table/wood,/obj/item/construction/plumbing,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/obj/item/stack/ducts/fifty,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Xd" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"Xe" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,/turf/open/floor/wood,/area/ship/crew/canteen)
+"XD" = (/obj/item/light,/turf/open/floor/wood/yew,/area/ship/crew/dorm)
+"XX" = (/obj/machinery/light{dir = 4},/turf/open/floor/plating,/area/ship/cargo)
+"Ym" = (/obj/machinery/duct,/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/bronze,/area/ship/crew/canteen)
+"Yt" = (/obj/structure/window/bronze{dir = 1},/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,/obj/machinery/suit_storage_unit/mining,/obj/item/pickaxe/diamond,/obj/item/storage/bag/ore,/obj/item/t_scanner/adv_mining_scanner,/obj/item/shovel,/turf/open/floor/plating,/area/ship/cargo)
+"Yx" = (/obj/structure/table/reinforced,/obj/item/reagent_containers/food/drinks/drinkingglass,/obj/item/reagent_containers/food/drinks/drinkingglass,/obj/item/shovel/spoon,/turf/open/floor/wood,/area/ship/crew/canteen)
+"YP" = (/obj/projectile/goat{name = "Frorkmar"},/turf/open/floor/wood,/area/ship/crew/canteen)
+"ZF" = (/obj/machinery/plumbing/beer_synthesizer,/obj/machinery/light,/turf/open/floor/bronze,/area/ship/maintenance/port)
+"ZV" = (/obj/machinery/power/apc/auto_name/north,/obj/structure/cable{icon_state = "0-8"},/turf/open/floor/bronze,/area/ship/maintenance/port)
+"ZX" = (/obj/machinery/duct,/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/carpet/lone,/area/ship/crew/canteen)
+
+(1,1,1) = {"
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+rorororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+AuAuaUkfkfkfDnrororororororororororororororororororororororororororororororororororororororororororororororororororororororororo
+AurvVPIQnRgSPuPuPuPuPuPuPuMLPuLXrCrPrPrPrPrPrPLXrorororororororororororororororororororororororororororororororororororororororo
+AuQoyiOdQogSsBEOdpBWBWYxarcrqnLXgmecececececXXyQdsHKdsdsrorororororororororororororororororororororororororororororororororororo
+gSwyyhOdEagScrcrcrcrcrcrcrcrLsLXecaZYtpFRzaZecyQxDzrzBdsrorororororororororororororororororororororororororororororororororororo
+gSbcgEOsxeuxcrcrcrcrcrcrcrcrLsLXosecbVFDNvececyQoxbjoxdsrorororororororororororororororororororororororororororororororororororo
+gSDvPijMZFgSkomMmMJImMUgmMmMirLXeueurRLXSBeueuyQjzeAPAdsrorororororororororororororororororororororororororororororororororororo
+gSgSRhgSgSgSsJsJsJJKsJersJsJLsFqFqFqHhtZMNUZBFmNGwGIotyQrorororororororororororororororororororororororororororororororororororo
+rogSFQsgIHgScrcrcrXecruQxBxBvVlRtBlRDClRKPGUaPgSgSgSgSgSrorororororororororororororororororororororororororororororororororororo
+rogSBwXdimjcomOWvsPfljSjqPZXwuYmyHYmBlYmYmCcYmsSTOhRZVgSrorororororororororororororororororororororororororororororororororororo
+rogSjXlIQngScrKEzjzjzjzjzjKEcrKhlVKhKhKhKhKhKhKhjXlIQngSrorororororororororororororororororororororororororororororororororororo
+rogSsqsqsqgScrKEGFKEaVKEGFKEcrKhCuRiOaMxXDnSVvKhsqsqsqgSrorororororororororororororororororororororororororororororororororororo
+rororororomucrcrcrcrcrcrcrcrcrKhuVTDTDvnXDXDJFLTrorororororororororororororororororororororororororororororororororororororororo
+rororororomumumumumucrcrYPcrcrKhXDzouTbYXDXDJFLTrorororororororororororororororororororororororororororororororororororororororo
+rororororororororomumumumumumuKhXDXDXDMSXDXDJFLTrorororororororororororororororororororororororororororororororororororororororo
+rororororororororororororororoKhKhKhKhKhKhKhKhKhrorororororororororororororororororororororororororororororororororororororororo
+"}

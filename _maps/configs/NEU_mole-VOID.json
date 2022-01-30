@@ -1,0 +1,13 @@
+{
+	"prefix": "NEU",
+	"map_name": "Mole-class Excavation Longship",
+	"map_short_name": "Mole-class",
+	"map_path": "_maps/shuttles/shiptest/voidcrew/mole.dmm",
+	"map_id": "mole",
+	"job_slots": {
+		"Captain": 1,
+		"Shaft Miner": 4,
+		"Bartender": 1
+	},
+	"cost": 450
+}

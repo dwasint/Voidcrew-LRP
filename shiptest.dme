@@ -3532,4 +3532,12 @@ g// DM Environment file for shiptest.dme.
 #include "whitesands\code\modules\uplink\uplink_items.dm"
 #include "whitesands\code\modules\vehicles\pimpin_ride.dm"
 #include "whitesands\code\modules\vending\mining_equipment.dm"
+
+//VOIDCREW EDITS
+#include "voidcrew\code\modules\plumbing\plumbers\soda_synthesizer.dm"
+#include "voidcrew\code\modules\plumbing\plumbers\beer_synthesizer.dm"
+#include "voidcrew\code\game\machinery\shuttle\shuttle_engine_types.dm"
+#include "voidcrew\code\game\objects\items\circuitboards\machine_circuitboards.dm"
+//VOIDCREW EDITS END
+
 // END_INCLUDE

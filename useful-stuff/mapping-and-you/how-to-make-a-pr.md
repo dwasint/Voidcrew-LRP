@@ -23,27 +23,30 @@ This file is located at  _maps/configs and its good practice to name it the same
 
 ## _Now that that is done we can move on the actually pushing it for review._
 
-To do so we need to run another git command first to push the changes to the repo, before that though we need to configure git to use our account doing so is simple simply run
+Doing this is very simple First thing first we need to make sure our changes are commited and pushed to the website to do that simply do as follows
+
+Step 1) Commit to branch
+
+![](<../../.gitbook/assets/image (41).png>)
+
+Step 2) Publish Branch
+
+![](<../../.gitbook/assets/image (31).png>)
+
+Step 3) Make PR
+
+![](<../../.gitbook/assets/image (26).png>)
+
+## Some Tips for a good PR.
+
+* Include images of the map in question, if its changes to a map just a zoom in on the changes is nice
+* Make sure it follows our current naming convention a template will be below
+* Make sure to keep your branches up to date with the master so make sure to merge commits from the website
+* Make sure your shuttle is in the correct modularization folder located at \_maps/shuttles/shiptest/voidcrew
 
 ```
-git config --global user.name "USERNAME" //for username
-git config --global user.email "MY_NAME@example.com" //for email make sure to use your github email
+CONFIG NAME : FACTION_classname_extra-VOID.json
+MAP NAME : class_extra
 ```
 
-Now that your username is set simply push the PR to your fork using this command replace fork with the name of your fork
-
-```
-git push --set-upstream origin fork
-```
-
-From your fork simply click on pull requests then new pull request
-
-![](<../../.gitbook/assets/image (11).png>)
-
-Now make sure to change the branch from master to the one you created as shown below
-
-![](<../../.gitbook/assets/image (25).png>)
-
-From there just follow the text in the PR description to describe what you want, having pictures of your Shuttle always helps.
-
-## Congratulations you have no make a Pull Request all thats left to do is wait until it gets looked at to see if it gets merged rejected or they ask for changes&#x20;
+## Congratulations you have now made a Pull Request.

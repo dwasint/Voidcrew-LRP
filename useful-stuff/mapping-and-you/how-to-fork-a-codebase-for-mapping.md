@@ -8,8 +8,8 @@ Step 2) From the Github repo click the fork button.
 
 ![](<../../.gitbook/assets/image (30).png>)
 
-Step 3) From there you will be at your fork of the code, a good idea would be to make a new branch incase you plan on having multiple maps PR'd at once this makes it way easier. To make a new branch simply click on master and type the name of the branch you wish to create.
+Sidenote: Make sure to update your code regularly by fetching upstream as shown below
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
-## Great! You now have a fork of Voidcrew with a branch ready for making changes.
+## Great! You now have a fork of Voidcrew.

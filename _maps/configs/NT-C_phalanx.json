@@ -4,6 +4,7 @@
 	"map_short_name": "Phalanx-Class",
 	"map_path": "_maps/shuttles/shiptest/voidcrew/phalanx.dmm",
 	"map_id": "Phalanx-Class",
+	"limit": 1,
 	"job_slots": {
 		"Captain": {
 			"outfit": "/datum/outfit/job/captain/nt",

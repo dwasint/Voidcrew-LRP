@@ -4,6 +4,7 @@
 	"prefix": "NEU",
 	"map_path": "_maps/shuttles/shiptest/statio.dmm",
 	"map_id": "statio",
+	"limit": 1,
 	"job_slots": {
 		"Captain": 1,
 		"Head of Personnel": 1,

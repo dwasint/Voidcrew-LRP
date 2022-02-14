@@ -5,6 +5,7 @@
 	"map_short_name": "Blackpill-class",
 	"map_path": "_maps/shuttles/shiptest/pill_black.dmm",
 	"map_id": "pill_black",
+	"limit": 5,
 	"job_slots": {
 		"Prisoner": 3
 	},

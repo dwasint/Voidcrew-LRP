@@ -12,12 +12,8 @@
 "av" = (
 /obj/structure/cable,
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{
-	dir = 1
-	},
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2{
-	dir = 1
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
+/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
@@ -53,12 +49,8 @@
 /area/ship/cargo)
 "bl" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/structure/sign/syndicate{
 	pixel_y = 32
@@ -69,7 +61,7 @@
 /area/ship/hallway/fore)
 "bM" = (
 /obj/machinery/door/airlock/external,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/structure/fans/tiny/invisible,
@@ -84,17 +76,6 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/ship/hallway/central)
-"cs" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/structure/catwalk/over/plated_catwalk/dark,
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2,
-/turf/open/floor/plating/catwalk_floor{
-	icon_state = "catwalk_above"
-	},
-/area/ship/hallway/central)
 "cu" = (
 /obj/structure/window/reinforced{
 	dir = 8
@@ -105,12 +86,8 @@
 /obj/structure/cable,
 /obj/structure/cable,
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -136,12 +113,8 @@
 /area/ship/crew)
 "dy" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/structure/sign/poster/contraband/random{
 	pixel_y = -32
@@ -170,19 +143,6 @@
 	icon_state = "catwalk_above"
 	},
 /area/ship/engineering)
-"dM" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 1
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 6
-	},
-/obj/structure/catwalk/over/plated_catwalk/dark,
-/turf/open/floor/plating/catwalk_floor{
-	icon_state = "catwalk_above"
-	},
-/area/ship/hallway/central)
 "dN" = (
 /obj/machinery/atmospherics/pipe/simple/orange/visible{
 	dir = 8
@@ -200,9 +160,7 @@
 /obj/structure/window/reinforced{
 	dir = 8
 	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -254,8 +212,8 @@
 "fZ" = (
 /obj/structure/cable,
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
+/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
@@ -274,12 +232,8 @@
 /obj/structure/cable,
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/north,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 10
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 10
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -287,21 +241,15 @@
 /area/ship/cargo)
 "hK" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 1
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
 /area/ship/engineering)
 "hR" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 9
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 10
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -318,23 +266,10 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/ship/medical)
-"iS" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
-/obj/structure/catwalk/over/plated_catwalk/dark,
-/turf/open/floor/plating/catwalk_floor{
-	icon_state = "catwalk_above"
-	},
-/area/ship/hallway/central)
 "jk" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2{
-	dir = 8
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
+/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/machinery/navbeacon{
 	codes_txt = "patrol;next_patrol=crew";
@@ -354,13 +289,9 @@
 /area/ship/hallway/fore)
 "jM" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/catwalk/over/plated_catwalk/dark,
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2{
-	dir = 1
-	},
+/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -368,12 +299,8 @@
 "jW" = (
 /obj/structure/cable,
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{
-	dir = 1
-	},
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2{
-	dir = 1
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
+/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -414,12 +341,8 @@
 /area/ship/hallway/central)
 "li" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 9
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 10
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -430,12 +353,8 @@
 /obj/machinery/door/airlock/hatch{
 	name = "Bridge Access"
 	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -452,33 +371,18 @@
 /obj/machinery/door/airlock/hatch{
 	name = "Crew Quarters"
 	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
 /area/ship/crew)
-"mX" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 1
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
-/obj/structure/catwalk/over/plated_catwalk/dark,
-/turf/open/floor/plating/catwalk_floor{
-	icon_state = "catwalk_above"
-	},
-/area/ship/hallway/fore)
 "nm" = (
 /obj/structure/cable,
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
+/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -520,24 +424,16 @@
 "on" = (
 /obj/structure/cable,
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 5
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
 /area/ship/engineering)
 "pi" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -580,9 +476,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ship/hallway/central)
 "rJ" = (
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/airalarm/all_access{
 	pixel_x = null;
 	pixel_y = 24
@@ -629,12 +523,8 @@
 /area/ship/medical)
 "sY" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/navbeacon{
 	codes_txt = "patrol;next_patrol=dorms";
 	location = "engineering"
@@ -643,15 +533,6 @@
 	icon_state = "catwalk_above"
 	},
 /area/ship/engineering)
-"tn" = (
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 9
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 10
-	},
-/turf/open/floor/mineral/plastitanium,
-/area/ship/cargo)
 "tA" = (
 /obj/effect/decal/cleanable/blood/bubblegum{
 	icon_state = "floor3-old"
@@ -675,9 +556,7 @@
 /area/ship/hallway/fore)
 "uw" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 1
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -700,9 +579,7 @@
 /obj/machinery/atmospherics/components/unary/shuttle/heater{
 	dir = 4
 	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/ship/engineering)
 "wu" = (
@@ -724,12 +601,8 @@
 /area/ship/cargo)
 "wx" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -762,12 +635,8 @@
 "xY" = (
 /obj/structure/cable,
 /obj/machinery/door/airlock/hatch,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -798,19 +667,6 @@
 "yC" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/hallway/central)
-"Be" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
-/obj/structure/catwalk/over/plated_catwalk/dark,
-/turf/open/floor/plating/catwalk_floor{
-	icon_state = "catwalk_above"
-	},
-/area/ship/hallway/fore)
 "Bw" = (
 /obj/structure/cable,
 /obj/structure/catwalk/over/plated_catwalk/dark,
@@ -821,12 +677,8 @@
 /area/ship/hallway/central)
 "BE" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -838,7 +690,7 @@
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
 	dir = 1
 	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -878,12 +730,8 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ship/cargo)
 "CU" = (
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/mineral/plastitanium,
 /area/ship/cargo)
 "DC" = (
@@ -935,7 +783,7 @@
 /area/ship/hallway/fore)
 "EB" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
@@ -947,12 +795,8 @@
 /obj/machinery/door/airlock/hatch{
 	name = "Medical Access"
 	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -965,12 +809,8 @@
 /area/ship/cargo)
 "Gc" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 6
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 5
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/machinery/navbeacon{
 	codes_txt = "patrol;next_patrol=bridge";
@@ -1011,10 +851,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ship/cargo)
 "Hb" = (
-/obj/machinery/atmospherics/components/unary/tank/air{
-	dir = 8;
-	piping_layer = 4
-	},
+/obj/machinery/atmospherics/components/tank/air,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -1032,19 +869,6 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/ship/crew)
-"HG" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 1
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 5
-	},
-/obj/structure/catwalk/over/plated_catwalk/dark,
-/turf/open/floor/plating/catwalk_floor{
-	icon_state = "catwalk_above"
-	},
-/area/ship/hallway/central)
 "HS" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
@@ -1100,19 +924,6 @@
 	icon_state = "catwalk_above"
 	},
 /area/ship/engineering)
-"JR" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{
-	dir = 1
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 6
-	},
-/obj/structure/catwalk/over/plated_catwalk/dark,
-/turf/open/floor/plating/catwalk_floor{
-	icon_state = "catwalk_above"
-	},
-/area/ship/hallway/central)
 "Kh" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/crew)
@@ -1125,7 +936,7 @@
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
 	dir = 1
 	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -1135,12 +946,8 @@
 /obj/machinery/door/airlock/hatch{
 	name = "Engine Access"
 	},
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -1200,36 +1007,19 @@
 "Pi" = (
 /obj/structure/cable,
 /obj/machinery/door/airlock/hatch,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
 /area/ship/hallway/central)
-"PV" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 1
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
-/obj/structure/catwalk/over/plated_catwalk/dark,
-/turf/open/floor/plating/catwalk_floor{
-	icon_state = "catwalk_above"
-	},
-/area/ship/cargo)
 "Qh" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/bridge)
 "Qp" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{
-	dir = 8
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/structure/sign/poster/contraband/random{
 	pixel_x = -32
@@ -1241,20 +1031,16 @@
 "Qx" = (
 /obj/structure/cable,
 /obj/structure/catwalk/over/plated_catwalk/dark,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
 /area/ship/hallway/central)
 "Qz" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/machinery/airalarm/all_access{
 	dir = 4;
@@ -1266,13 +1052,9 @@
 /area/ship/hallway/fore)
 "Rl" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4{
-	dir = 1
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
 /obj/structure/catwalk/over/plated_catwalk/dark,
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -1339,8 +1121,8 @@
 /area/ship/engineering)
 "SJ" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/structure/cable,
 /obj/structure/catwalk/over/plated_catwalk/dark,
@@ -1350,10 +1132,8 @@
 /area/ship/hallway/central)
 "Tj" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 5
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -1363,12 +1143,8 @@
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/west,
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 1
-	},
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer2{
-	dir = 8
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -1396,9 +1172,7 @@
 "Uu" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/north,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 6
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
 	},
@@ -1420,7 +1194,7 @@
 /obj/machinery/door/airlock/external,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/fans/tiny/invisible,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -1442,12 +1216,8 @@
 /area/ship/hallway/central)
 "Wp" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -1468,12 +1238,8 @@
 /area/ship/crew)
 "Xh" = (
 /obj/effect/decal/cleanable/blood/old,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/mineral/plastitanium,
 /area/ship/cargo)
 "XD" = (
@@ -1482,12 +1248,8 @@
 /area/ship/cargo)
 "XG" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 9
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 9
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /obj/machinery/airalarm/all_access{
 	dir = 1;
@@ -1554,12 +1316,8 @@
 /area/ship/crew)
 "ZR" = (
 /obj/structure/cable,
-/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4{
-	dir = 8
-	},
-/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2{
-	dir = 4
-	},
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/catwalk/over/plated_catwalk/dark,
 /turf/open/floor/plating/catwalk_floor{
 	icon_state = "catwalk_above"
@@ -1705,12 +1463,12 @@ TQ
 TQ
 Yt
 rE
-JR
+Tj
 SJ
-iS
+wx
 dA
-iS
-iS
+wx
+wx
 Tj
 rE
 vP
@@ -1765,7 +1523,7 @@ Ol
 BS
 XN
 KU
-cs
+jM
 WH
 iH
 Zz
@@ -1811,11 +1569,11 @@ TQ
 vP
 rE
 jW
-HG
+wx
 uw
 Qp
 uw
-dM
+wx
 fZ
 rE
 vP
@@ -1931,11 +1689,11 @@ TQ
 TQ
 jm
 av
-mX
+ZR
 Qz
 Ed
 Tp
-mX
+ZR
 nm
 jm
 TQ
@@ -1948,7 +1706,7 @@ jm
 ZR
 uk
 Hu
-Be
+ZR
 Ub
 uk
 ZR
@@ -2051,11 +1809,11 @@ TQ
 TQ
 im
 gW
-PV
-PV
+BE
+BE
 jk
-PV
-PV
+BE
+BE
 XG
 im
 TQ
@@ -2098,7 +1856,7 @@ im
 pU
 CP
 sd
-tn
+CU
 rY
 CP
 CP

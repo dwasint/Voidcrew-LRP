@@ -2447,7 +2447,7 @@
 "qO" = (
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/glass/fifty,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/item/stack/cable_coil,
 /obj/item/stack/cable_coil,
 /obj/effect/turf_decal/corner/purple/border{
@@ -2458,7 +2458,7 @@
 "qP" = (
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/glass/fifty,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/effect/turf_decal/industrial/outline/yellow,
 /obj/effect/decal/cleanable/oil,
 /turf/open/floor/plasteel/mono,
@@ -5600,9 +5600,7 @@
 /area/ship/hallway/aft)
 "Ow" = (
 /obj/structure/table/reinforced,
-/obj/item/radio/intercom/wideband{
-	pixel_y = 4
-	},
+/obj/item/radio,
 /obj/effect/turf_decal/corner/purple{
 	dir = 4
 	},

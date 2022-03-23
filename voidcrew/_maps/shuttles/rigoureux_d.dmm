@@ -153,9 +153,7 @@
 	dir = 1;
 	name = "Helm"
 	},
-/obj/item/radio/intercom/wideband{
-	pixel_y = 24
-	},
+/obj/item/radio,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/carpet/nanoweave/blue,
 /area/ship/bridge)
@@ -2174,7 +2172,7 @@
 "yZ" = (
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/glass/fifty,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/effect/decal/cleanable/blood,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/tech,
@@ -4199,7 +4197,7 @@
 /obj/structure/cable,
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/mineral/uranium/five,
-/obj/item/stack/sheet/mineral/plasma/fifty,
+/obj/item/stack/sheet/mineral/plasma/thirty,
 /obj/effect/turf_decal/industrial/outline/yellow,
 /obj/effect/turf_decal/radiation,
 /obj/structure/catwalk/over,

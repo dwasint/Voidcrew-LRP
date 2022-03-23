@@ -172,7 +172,7 @@
 /obj/machinery/light{
 	dir = 8
 	},
-/obj/item/radio/intercom/wideband,
+/obj/item/radio,
 /turf/open/floor/mineral/plastitanium,
 /area/ship/bridge)
 "iH" = (
@@ -710,8 +710,8 @@
 "BH" = (
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/glass/fifty,
-/obj/item/stack/sheet/metal/fifty,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
 /turf/open/floor/plasteel/dark,
 /area/ship/cargo)
@@ -1072,7 +1072,7 @@
 /obj/machinery/light{
 	dir = 8
 	},
-/obj/item/stack/sheet/mineral/plasma/twenty,
+/obj/item/stack/sheet/mineral/plasma/thirty,
 /turf/open/floor/plating,
 /area/ship/maintenance/port)
 "NA" = (

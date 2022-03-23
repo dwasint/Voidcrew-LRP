@@ -987,7 +987,7 @@
 /area/ship/engineering)
 "in" = (
 /obj/structure/table/reinforced,
-/obj/item/radio/intercom/wideband,
+/obj/item/radio,
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)
 "io" = (
@@ -1070,7 +1070,7 @@
 "jp" = (
 /obj/structure/rack,
 /obj/item/stack/sheet/mineral/titanium/fifty,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/item/stack/sheet/plasteel/fifty,
 /obj/item/stack/sheet/mineral/plastitanium{
 	amount = 50

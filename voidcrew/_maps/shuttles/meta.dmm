@@ -1453,9 +1453,7 @@
 	pixel_x = -2;
 	pixel_y = -4
 	},
-/obj/item/radio/intercom/wideband{
-	pixel_y = -29
-	},
+/obj/item/radio,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/plasteel/dark,
 /area/ship/bridge)

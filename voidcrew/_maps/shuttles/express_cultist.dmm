@@ -281,7 +281,7 @@
 /area/ship/storage)
 "ht" = (
 /obj/structure/table/reinforced,
-/obj/item/radio/intercom/wideband,
+/obj/item/radio,
 /turf/open/floor/plasteel,
 /area/ship/bridge)
 "ib" = (
@@ -1239,14 +1239,8 @@
 	pixel_x = 2;
 	pixel_y = -2
 	},
-/obj/item/stack/sheet/metal/fifty{
-	pixel_x = 4;
-	pixel_y = -4
-	},
-/obj/item/stack/sheet/metal/fifty{
-	pixel_x = 4;
-	pixel_y = -4
-	},
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/item/stack/sheet/titaniumglass{
 	amount = 20
 	},
@@ -1433,14 +1427,8 @@
 	pixel_x = 2;
 	pixel_y = -2
 	},
-/obj/item/stack/sheet/metal/fifty{
-	pixel_x = 4;
-	pixel_y = -4
-	},
-/obj/item/stack/sheet/metal/fifty{
-	pixel_x = 4;
-	pixel_y = -4
-	},
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/item/stack/sheet/titaniumglass{
 	amount = 20
 	},

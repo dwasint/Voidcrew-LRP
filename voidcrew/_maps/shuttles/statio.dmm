@@ -3065,7 +3065,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 8
 	},
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/item/stack/sheet/glass/fifty,
 /turf/open/floor/plasteel,
 /area/ship/engineering)
@@ -3822,7 +3822,7 @@
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /turf/open/floor/plasteel,
 /area/ship/cargo)
 "ps" = (
@@ -5665,7 +5665,7 @@
 "wK" = (
 /obj/structure/table,
 /obj/item/stack/sheet/glass/fifty,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/effect/turf_decal/corner/purple{
 	dir = 10
 	},
@@ -8906,8 +8906,8 @@
 /area/ship/maintenance)
 "Ju" = (
 /obj/structure/table/reinforced,
-/obj/item/stack/sheet/metal/fifty,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/item/stack/sheet/glass/fifty,
 /obj/item/storage/belt/utility,
 /obj/item/storage/belt/utility,

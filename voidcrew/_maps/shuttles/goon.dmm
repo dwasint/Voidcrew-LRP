@@ -53,9 +53,7 @@
 /obj/machinery/light/small{
 	dir = 1
 	},
-/obj/item/radio/intercom/wideband{
-	pixel_y = 28
-	},
+/obj/item/radio,
 /turf/open/floor/mineral/titanium/yellow,
 /area/ship/bridge)
 "cF" = (
@@ -316,8 +314,8 @@
 /area/ship/bridge)
 "qL" = (
 /obj/structure/table/reinforced,
-/obj/item/stack/sheet/metal/fifty,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/item/stack/sheet/glass/fifty,
 /obj/machinery/door/firedoor/border_only,
 /obj/item/pickaxe,
@@ -745,7 +743,7 @@
 "Lr" = (
 /obj/machinery/power/port_gen/pacman,
 /obj/structure/cable,
-/obj/item/stack/sheet/mineral/plasma/twenty,
+/obj/item/stack/sheet/mineral/plasma/thirty,
 /obj/effect/turf_decal/box,
 /turf/open/floor/mineral/titanium/yellow,
 /area/ship/engineering)

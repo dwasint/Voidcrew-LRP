@@ -3162,7 +3162,7 @@
 /area/ship/crew/solgov)
 "Kp" = (
 /obj/structure/closet/crate/engineering,
-/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/iron/fifty,
 /obj/item/stack/sheet/glass/fifty,
 /obj/effect/turf_decal/corner/black/diagonal,
 /turf/open/floor/plasteel,
@@ -3521,7 +3521,7 @@
 	icon_state = "4-8"
 	},
 /obj/structure/closet/crate/radiation,
-/obj/item/stack/sheet/mineral/plasma/fifty,
+/obj/item/stack/sheet/mineral/plasma/thirty,
 /obj/item/stack/sheet/mineral/uranium/twenty,
 /turf/open/floor/plating,
 /area/ship/engineering/engine)
@@ -3586,9 +3586,7 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer2{
 	dir = 4
 	},
-/obj/item/radio/intercom/wideband{
-	pixel_y = 20
-	},
+/obj/item/radio,
 /obj/effect/turf_decal/corner_techfloor_grid/full{
 	dir = 1
 	},
@@ -4023,7 +4021,7 @@
 /area/ship/engineering)
 "VX" = (
 /obj/structure/table/reinforced,
-/obj/item/radio/intercom/wideband,
+/obj/item/radio,
 /obj/item/newspaper,
 /obj/item/megaphone/command,
 /obj/item/radio/headset/solgov/alt,

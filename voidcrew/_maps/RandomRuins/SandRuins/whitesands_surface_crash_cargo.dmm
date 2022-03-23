@@ -12,12 +12,9 @@
 /obj/effect/turf_decal/box/white/corners,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/closet/crate,
-/obj/effect/spawner/lootdrop/maintenance{
-	lootcount = 3;
-	name = "3maintenance loot spawner"
-	},
+/obj/effect/spawner/random/maintenance,
 /obj/item/disk/nuclear/fake,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "du" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -31,7 +28,7 @@
 /obj/effect/turf_decal/corner/neutral{
 	dir = 8
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "dy" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -51,13 +48,13 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
 	dir = 4
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "fC" = (
 /obj/effect/turf_decal/box/white/corners,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "fF" = (
 /obj/machinery/power/smes/shuttle/precharged{
@@ -93,7 +90,7 @@
 /area/whitesands/surface/outdoors)
 "kp" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "kw" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -177,7 +174,7 @@
 "nL" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "oF" = (
 /obj/effect/turf_decal/industrial/outline,
@@ -199,7 +196,7 @@
 /obj/effect/turf_decal/corner/neutral{
 	dir = 8
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "pJ" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -224,22 +221,19 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/orange/hidden,
 /obj/machinery/atmospherics/pipe/manifold4w/supply/hidden/layer1,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "pP" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 4
+	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/closet/crate{
 	icon_state = "crateopen"
 	},
-/obj/effect/spawner/lootdrop/maintenance{
-	lootcount = 3;
-	name = "3maintenance loot spawner"
-	},
-/turf/open/floor/plasteel/dark,
+/obj/effect/spawner/random/maintenance,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "qb" = (
 /obj/effect/turf_decal/box/white/corners,
@@ -247,7 +241,7 @@
 /turf/open/floor/plating/asteroid/whitesands/dried,
 /area/whitesands/surface/outdoors)
 "qi" = (
-/obj/effect/spawner/structure/window/shuttle,
+/obj/effect/spawner/structure/window/reinforced/shuttle,
 /obj/machinery/door/poddoor{
 	id = "whiteship_windows"
 	},
@@ -277,7 +271,7 @@
 /obj/item/reagent_containers/glass/bottle/morphine,
 /obj/item/reagent_containers/syringe,
 /obj/item/storage/firstaid/advanced,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "sn" = (
 /obj/structure/lattice,
@@ -302,14 +296,14 @@
 	},
 /obj/item/stack/rods/twentyfive,
 /obj/item/wrench,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "wo" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/closet/emcloset/anchored,
 /obj/effect/turf_decal/industrial/outline,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "xA" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -320,7 +314,7 @@
 	pixel_y = 6
 	},
 /obj/item/stock_parts/cell/high/plus,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "yi" = (
 /turf/open/floor/plating{
@@ -335,16 +329,16 @@
 /turf/open/floor/plating,
 /area/whitesands/surface/outdoors)
 "Az" = (
-/obj/effect/spawner/structure/window/shuttle,
+/obj/effect/spawner/structure/window/reinforced/shuttle,
 /obj/machinery/door/firedoor/window,
 /turf/open/floor/plating,
 /area/whitesands/surface/outdoors)
 "AA" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 4
+	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Bb" = (
 /obj/structure/cable{
@@ -385,11 +379,11 @@
 	},
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/orange/hidden,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Ed" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 8
+	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/button/door{
@@ -398,7 +392,7 @@
 	pixel_x = -24;
 	pixel_y = -5
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "ED" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -416,11 +410,11 @@
 /area/whitesands/surface/outdoors)
 "FW" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 8
+	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Gs" = (
 /mob/living/simple_animal/hostile/pirate/melee,
@@ -435,11 +429,11 @@
 /area/whitesands/surface/outdoors)
 "GW" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 1
+	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Hb" = (
 /obj/effect/turf_decal/industrial/warning{
@@ -475,7 +469,7 @@
 "Iv" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/oil,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Kj" = (
 /obj/structure/sign/warning/vacuum/external{
@@ -511,7 +505,7 @@
 	dir = 8
 	},
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer1,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Lp" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -549,16 +543,13 @@
 /area/whitesands/surface/outdoors)
 "MV" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 1
+	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/closet/crate,
-/obj/effect/spawner/lootdrop/maintenance{
-	lootcount = 3;
-	name = "3maintenance loot spawner"
-	},
-/turf/open/floor/plasteel/dark,
+/obj/effect/spawner/random/maintenance,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "No" = (
 /obj/machinery/door/poddoor{
@@ -587,7 +578,7 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
 	dir = 4
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "NI" = (
 /turf/open/floor/plating{
@@ -616,7 +607,7 @@
 /obj/effect/turf_decal/corner/neutral{
 	dir = 8
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Oe" = (
 /turf/open/floor/plating{
@@ -633,12 +624,13 @@
 	dir = 4;
 	pixel_x = 24
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Po" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/airalarm/all_access{
-	pixel_y = 24
+	pixel_y = 24;
+	dir = 1
 	},
 /obj/machinery/light/small/built{
 	dir = 1
@@ -655,7 +647,7 @@
 /obj/item/gun/energy/laser/retro,
 /obj/item/melee/transforming/energy/sword/saber/pirate,
 /obj/item/gun/energy/laser/retro,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "PW" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -675,7 +667,7 @@
 "RQ" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /mob/living/simple_animal/hostile/pirate/ranged,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "RV" = (
 /obj/machinery/atmospherics/components/unary/shuttle/heater{
@@ -704,17 +696,17 @@
 /obj/effect/turf_decal/corner/neutral{
 	dir = 8
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Sv" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 8
+	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Tp" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -730,7 +722,7 @@
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Uc" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -752,11 +744,8 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/closet,
-/obj/effect/spawner/lootdrop/maintenance{
-	lootcount = 3;
-	name = "3maintenance loot spawner"
-	},
-/turf/open/floor/plasteel/dark,
+/obj/effect/spawner/random/maintenance,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Wv" = (
 /obj/machinery/light/built{
@@ -767,7 +756,7 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Xl" = (
 /turf/template_noop,
@@ -779,15 +768,15 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer1{
 	dir = 8
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "YN" = (
 /obj/effect/turf_decal/box/white/corners{
-	dir = 1
+	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/blood,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/whitesands/surface/outdoors)
 "Zz" = (
 /obj/machinery/power/shuttle/engine/fueled/plasma{

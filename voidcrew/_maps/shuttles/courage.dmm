@@ -41,7 +41,7 @@
 /area/ship/crew)
 "bZ" = (
 /obj/effect/turf_decal/corner/red,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "dZ" = (
 /obj/machinery/power/shuttle/engine/fueled/plasma{
@@ -85,7 +85,7 @@
 /obj/effect/turf_decal/corner/red/three_quarters{
 	dir = 8
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "je" = (
 /obj/machinery/computer/autopilot{
@@ -94,11 +94,11 @@
 /obj/effect/turf_decal/corner/red/three_quarters{
 	dir = 4
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "jk" = (
 /obj/machinery/holopad/emergency/command,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "ka" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/orange/hidden,
@@ -107,7 +107,7 @@
 /area/ship/crew)
 "mG" = (
 /obj/structure/grille,
-/obj/structure/window/plasma/reinforced/plastitanium,
+/obj/structure/window/reinforced/plasma/plastitanium,
 /turf/open/floor/plating,
 /area/ship/crew)
 "ns" = (
@@ -132,12 +132,12 @@
 /obj/effect/turf_decal/corner/red/three_quarters{
 	dir = 4
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "rU" = (
 /obj/structure/grille,
-/obj/structure/window/plasma/reinforced/plastitanium,
-/turf/open/floor/plasteel/dark,
+/obj/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "rV" = (
 /obj/machinery/suit_storage_unit/syndicate,
@@ -146,7 +146,8 @@
 "sn" = (
 /obj/structure/table/reinforced,
 /obj/machinery/airalarm/syndicate{
-	pixel_y = 24
+	pixel_y = 24;
+	dir = 1
 	},
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -157,7 +158,7 @@
 /obj/effect/turf_decal/corner/red{
 	dir = 5
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "uy" = (
 /obj/structure/chair/comfy/shuttle,
@@ -189,20 +190,20 @@
 /obj/machinery/light/small{
 	dir = 8
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "Bp" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/orange/hidden,
 /obj/effect/turf_decal/corner/red{
 	dir = 10
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "BQ" = (
 /obj/effect/turf_decal/corner/red{
 	dir = 10
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "Cm" = (
 /obj/machinery/firealarm{
@@ -228,7 +229,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ship/crew)
 "Dx" = (
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "EO" = (
 /obj/structure/table/reinforced,
@@ -275,7 +276,7 @@
 /obj/effect/turf_decal/corner/red/three_quarters{
 	dir = 8
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "Gx" = (
 /obj/machinery/power/smes/shuttle{
@@ -298,7 +299,7 @@
 /obj/effect/turf_decal/corner/red{
 	dir = 4
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "HB" = (
 /obj/machinery/computer/helm{
@@ -307,7 +308,7 @@
 /obj/effect/turf_decal/corner/red{
 	dir = 9
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "HJ" = (
 /obj/effect/turf_decal/industrial/warning{
@@ -327,20 +328,20 @@
 	dir = 8
 	},
 /obj/machinery/microwave,
-/obj/effect/spawner/lootdrop/donkpockets,
-/obj/effect/spawner/lootdrop/donkpockets,
-/obj/effect/spawner/lootdrop/donkpockets,
-/obj/effect/spawner/lootdrop/donkpockets,
-/obj/effect/spawner/lootdrop/donkpockets,
-/obj/effect/spawner/lootdrop/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
 /obj/effect/turf_decal/corner/red/three_quarters{
 	dir = 1
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "IU" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/orange/hidden,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "Jv" = (
 /turf/template_noop,
@@ -386,7 +387,7 @@
 /area/ship/crew)
 "Pg" = (
 /obj/effect/turf_decal/corner/red/three_quarters,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "Pt" = (
 /obj/effect/turf_decal/industrial/warning{
@@ -430,19 +431,19 @@
 	dir = 4
 	},
 /obj/machinery/light/small,
-/obj/machinery/atmospherics/miner/toxins,
+/obj/machinery/atmospherics/miner/plasma,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3{
 	dir = 4
 	},
-/obj/structure/window/plasma/reinforced/spawner/east,
-/obj/structure/window/plasma/reinforced/spawner/north,
+/obj/structure/window/reinforced/plasma/spawner/east,
+/obj/structure/window/reinforced/plasma/spawner/north,
 /turf/open/floor/engine/plasma,
 /area/ship/crew)
 "Ri" = (
 /obj/structure/chair/comfy/shuttle{
 	dir = 4
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "RB" = (
 /obj/machinery/photocopier/faxmachine/longrange,
@@ -450,7 +451,7 @@
 /obj/effect/turf_decal/corner/red/three_quarters{
 	dir = 1
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "Sl" = (
 /obj/structure/table/reinforced,
@@ -472,7 +473,7 @@
 	normalspeed = 0;
 	req_access_txt = "150"
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "VA" = (
 /obj/structure/table/reinforced,
@@ -487,7 +488,7 @@
 /obj/effect/turf_decal/corner/red/three_quarters{
 	dir = 4
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "Wr" = (
 /obj/machinery/suit_storage_unit/syndicate{
@@ -496,7 +497,7 @@
 	suit_type = /obj/item/clothing/suit/space/hardsuit/syndi/elite
 	},
 /obj/effect/turf_decal/corner/red/three_quarters,
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "YU" = (
 /obj/effect/turf_decal/industrial/warning{
@@ -544,13 +545,13 @@
 	dir = 8;
 	name = "fuel pump"
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 "ZZ" = (
 /obj/effect/turf_decal/corner/red/three_quarters{
 	dir = 1
 	},
-/turf/open/floor/plasteel/dark,
+/turf/open/floor/iron/dark,
 /area/ship/crew)
 
 (1,1,1) = {"

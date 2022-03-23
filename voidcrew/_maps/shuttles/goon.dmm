@@ -41,7 +41,7 @@
 /obj/item/storage/toolbox/mechanical,
 /obj/item/storage/toolbox/electrical,
 /obj/structure/cable,
-/obj/machinery/power/apc/auto_name/east,
+/obj/machinery/power/apc/auto_name/directional/east,
 /turf/open/floor/mineral/titanium/yellow,
 /area/ship/engineering)
 "cn" = (
@@ -109,7 +109,7 @@
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/ship/crew)
 "fU" = (
-/obj/effect/spawner/structure/window/shuttle,
+/obj/effect/spawner/structure/window/reinforced/shuttle,
 /turf/open/floor/plating,
 /area/ship/engineering)
 "fZ" = (
@@ -151,7 +151,7 @@
 	dir = 8
 	},
 /obj/structure/cable,
-/obj/machinery/power/apc/auto_name/south,
+/obj/machinery/power/apc/auto_name/directional/south,
 /turf/open/floor/mineral/titanium/blue,
 /area/ship/medical)
 "jV" = (
@@ -378,7 +378,7 @@
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
-/obj/machinery/power/apc/auto_name/west,
+/obj/machinery/power/apc/auto_name/directional/west,
 /turf/open/floor/mineral/titanium,
 /area/ship/crew)
 "wE" = (
@@ -386,9 +386,9 @@
 	dir = 1
 	},
 /obj/structure/table,
-/obj/effect/spawner/lootdrop/donkpockets,
-/obj/effect/spawner/lootdrop/donkpockets,
-/obj/effect/spawner/lootdrop/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
+/obj/effect/spawner/random/food_or_drink/donkpockets,
 /obj/item/storage/cans/sixbeer,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2,
 /obj/item/soap/nanotrasen,
@@ -451,7 +451,7 @@
 /turf/open/floor/mineral/titanium/blue,
 /area/ship/medical)
 "Bg" = (
-/obj/effect/spawner/structure/window/shuttle,
+/obj/effect/spawner/structure/window/reinforced/shuttle,
 /turf/open/floor/plating,
 /area/ship/medical)
 "Bw" = (
@@ -548,11 +548,11 @@
 /turf/open/floor/mineral/titanium/white,
 /area/ship/crew)
 "ET" = (
-/obj/effect/spawner/structure/window/shuttle,
+/obj/effect/spawner/structure/window/reinforced/shuttle,
 /turf/open/floor/plating,
 /area/ship/crew)
 "Ft" = (
-/obj/effect/spawner/structure/window/shuttle,
+/obj/effect/spawner/structure/window/reinforced/shuttle,
 /turf/open/floor/plating,
 /area/ship/bridge)
 "HK" = (
@@ -575,7 +575,7 @@
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
-/obj/machinery/power/apc/auto_name/west,
+/obj/machinery/power/apc/auto_name/directional/west,
 /turf/open/floor/mineral/titanium/yellow,
 /area/ship/bridge)
 "Ix" = (
@@ -589,7 +589,7 @@
 /turf/template_noop,
 /area/template_noop)
 "Jc" = (
-/obj/effect/spawner/structure/window/shuttle,
+/obj/effect/spawner/structure/window/reinforced/shuttle,
 /obj/docking_port/mobile{
 	can_move_docking_ports = 1;
 	dir = 8;
